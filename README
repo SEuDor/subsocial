@@ -1,0 +1,24 @@
+This is a little social that was done for practical experience.
+Possibilities:
+-	System can create users
+-	System can authorize users
+-	User can add friends
+-	User can write messages to another user
+-	User can change his personal data including avatars
+The list of used Design Patterns:
+•	MVC
+•	Singleton
+•	Abstract Factory
+•	Factory
+•	Factory Method
+•	Strategy
+•	Façade
+•	Proxy
+•	Builder
+•	Poison Pill
+•	Execute Around
+•	Data Access Object
+•	Null Object
+•	Service Layer
+•	Single Entry Point
+•	Composite

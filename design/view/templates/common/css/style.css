@@ -1,0 +1,58 @@
+HTML { margin: 0; }
+BODY { margin: 0; }
+
+div { box-sizing: border-box; }
+
+.wrapper { width: 1000px; margin: 0 auto; }
+
+.exitButton { position: absolute; top: 5px; right: 5px; width: 50px; height: 50px; cursor: pointer; }
+.exitButton img { width: 50px; height: 50px; }
+
+.userCont { width: 1000px; margin: 0 auto; }
+
+nav { margin-bottom: 10px; }
+nav a { text-decoration: none; color: #000000; }
+nav ul { display: table; margin: 0 auto; width: auto; border-radius: 0 0 5px 5px; background: linear-gradient(to bottom, #FFFFFF, #DEDEDE); padding: 0; }
+nav li { display: inline-block; box-sizing: border-box; padding: 10px 20px; border-left: 1px solid #FFFFFF; border-right: 1px solid #FFFFFF; }
+
+.userImage { display: block; margin: 0 auto; width: 200px; margin-bottom: 5px; }
+.userImage img { max-width: 200px; }
+
+.userName { display: table; margin: 0 auto; width: 200px; border: 1px solid #DEDEDE; border-radius: 2px; margin-bottom: 10px; text-align: center; }
+
+.buttons { margin: 0 auto; width: 200px; margin-bottom: 10px; }
+.friendReqBtn { width: 100px; }
+.sendMsgBtn { width: 100px; }
+.friendReqBtn, .sendMsgBtn { border-radius: 3px; box-sizing: border-box; background: linear-gradient(to bottom, #FFFFFF, #DEDEDE); }
+
+.info { width: 400px; float: left; }
+.info div { background: linear-gradient(to right, #DEDEDE, #DEDEDE, #FFFFFF); }
+.info table {width: 100%; }
+
+.blog { width: 600px; float: right; }
+.singleRecord {}
+.message {}
+.date {}
+
+/*-------------------------Authentification-----------------------------*/
+
+.formBlock { display: table; widht: 500px; margin: 0 auto; margin-top: 30vh; }
+.formBlock label { display: table-cell; }
+.formBlock input { display: table-cell; }
+.formBlock button { display: block; }
+
+.formBlock div { display: table; margin: 5px 0; }
+.formBlock div input { margin: 0 5px; }
+
+/*-------------------------Friend List-----------------------------*/
+
+.friendList li { display: block; border: 1px solid #DEDEDE; }
+
+/*-------------------------Message-----------------------------*/
+
+.msgText { width: 300px; height: 60px; }
+
+/*-------------------------404-----------------------------*/
+.notFound { display: table; margin: 0 auto; text-align: center; }
+.notFound span { font-size: 24px; display: block; clear: both; }
+.notFound img {  }
