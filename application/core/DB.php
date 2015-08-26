@@ -1,12 +1,5 @@
 <?php
 /**
- * Created by PhpStorm.
- * User: Женя
- * Date: 08.05.2015
- * Time: 15:58
- */
-
-/**
  * Class DB
  *
  * Provides means for work with database
