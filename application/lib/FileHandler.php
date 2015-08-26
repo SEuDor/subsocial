@@ -1,12 +1,5 @@
 <?php
 /**
- * Created by PhpStorm.
- * User: Женя
- * Date: 31.05.2015
- * Time: 18:13
- */
-
-/**
  * Class FileHandler
  *
  * This class contains means for working with files
