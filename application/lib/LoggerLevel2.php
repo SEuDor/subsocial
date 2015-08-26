@@ -1,12 +1,5 @@
 <?php
 /**
- * Created by PhpStorm.
- * User: Женя
- * Date: 31.05.2015
- * Time: 18:10
- */
-
-/**
  * Class LoggerLevel2
  *
  * Logs User Creation, Friendship Requests, Sent messages(ony the fact of sending and nodes of communication)
