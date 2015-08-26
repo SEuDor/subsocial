@@ -1,12 +1,5 @@
 <?php
 /**
- * Created by PhpStorm.
- * User: Женя
- * Date: 30.05.2015
- * Time: 0:15
- */
-
-/**
  * Class NullUser
  *
  * User that does nothing
