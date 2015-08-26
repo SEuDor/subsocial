@@ -1,12 +1,5 @@
 <?php
 /**
- * Created by PhpStorm.
- * User: Женя
- * Date: 31.05.2015
- * Time: 17:50
- */
-
-/**
  * Interface Logger
  *
  * Prototypes of methods for logging
