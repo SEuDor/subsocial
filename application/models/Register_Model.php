@@ -1,11 +1,4 @@
 <?php
-/**
- * Created by PhpStorm.
- * User: Женя
- * Date: 30.05.2015
- * Time: 16:22
- */
-
 class Register_Model
 {
     /*public function addUser($name, $surname, $gender, $skype, $login, $pas)
