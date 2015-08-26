@@ -1,12 +1,5 @@
 <?php
 /**
- * Created by PhpStorm.
- * User: Женя
- * Date: 30.05.2015
- * Time: 0:22
- */
-
-/**
  * Class User
  *
  * Represents the user as a person
