@@ -1,12 +1,5 @@
 <?php
 /**
- * Created by PhpStorm.
- * User: Женя
- * Date: 31.05.2015
- * Time: 18:09
- */
-
-/**
  * Class LoggerLevel1
  *
  * Logs only User Creations
